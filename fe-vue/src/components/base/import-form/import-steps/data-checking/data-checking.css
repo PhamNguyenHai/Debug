@@ -1,0 +1,34 @@
+.import-table {
+  height: 442px;
+  overflow: scroll;
+  font-size: 14px;
+  position: relative;
+  cursor: default;
+}
+
+.dowload-invalid-records {
+  padding: 10px 20px;
+  box-sizing: border-box;
+  display: block;
+}
+
+.records-valid-result {
+  display: flex;
+  justify-content: flex-start;
+  column-gap: 100px;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+}
+
+.records-result {
+  font-weight: 600;
+}
+
+.dowload-invalid-hyperlink {
+  color: blue;
+  cursor: pointer;
+}
+
+.dowload-invalid-hyperlink:hover {
+  text-decoration: underline;
+}

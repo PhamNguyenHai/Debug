@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "wrKWICYhxDlhKiSWVVCW0Nk74zk0j/RGj+kLyB+nXsg=",
+  "Source": "MISA.AMIS.WEB08.PNNHAI.Api",
+  "BasePath": "_content/MISA.AMIS.WEB08.PNNHAI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MISA.AMIS.WEB08.PNNHAI.Api\\wwwroot",
+      "Source": "MISA.AMIS.WEB08.PNNHAI.Api",
+      "ContentRoot": "D:\\Save VS Code\\misa-amis\\be-asp.net\\MISA.AMIS.WEB08.PNNHAI.Api\\MISA.AMIS.WEB08.PNNHAI.Api\\wwwroot\\",
+      "BasePath": "_content/MISA.AMIS.WEB08.PNNHAI.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Save VS Code\\misa-amis\\be-asp.net\\MISA.AMIS.WEB08.PNNHAI.Api\\MISA.AMIS.WEB08.PNNHAI.Api\\wwwroot\\employee-template.xlsx",
+      "SourceId": "MISA.AMIS.WEB08.PNNHAI.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Save VS Code\\misa-amis\\be-asp.net\\MISA.AMIS.WEB08.PNNHAI.Api\\MISA.AMIS.WEB08.PNNHAI.Api\\wwwroot\\",
+      "BasePath": "_content/MISA.AMIS.WEB08.PNNHAI.Api",
+      "RelativePath": "employee-template.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\employee-template.xlsx"
+    }
+  ]
+}
